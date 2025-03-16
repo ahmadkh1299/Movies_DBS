@@ -36,7 +36,6 @@ With access to a **movie database** sourced from IMDb, containing **10,000 movie
 │   ├── user_manual.docx         # User guide and application instructions
 │
 ├── README.md                    # Project documentation
-├── LICENSE                       # License information
 ```
 
 ## 🔧 Setup & Installation
